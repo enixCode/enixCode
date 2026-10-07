@@ -9,7 +9,7 @@ Student building small tools.
 ## Projects
 
 
-## Quick Projects
+### Quick Projects
 
 - **[quickref](https://github.com/enixCode/quickref)** Rust — On-screen cheatsheet overlay for Windows (PowerShell + WinForms): one key shows/hides your shortcuts.
 - **[news-bar](https://github.com/enixCode/news-bar)** Rust — Scrolling shortcut bar for Windows (PowerShell + WinForms).
