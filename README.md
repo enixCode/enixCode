@@ -1,6 +1,6 @@
 # enixCode
 
-### Hi 👋
+## Hi 👋
 
 Student building small tools.
 
