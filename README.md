@@ -16,7 +16,7 @@ Student building small tools.
 ## Small tools
 
 - **[in-place-translate](https://github.com/enixCode/in-place-translate)** Chrome extension: translate selected text in place. [Chrome Web Store](https://chromewebstore.google.com/detail/kekghjcpdoelkaojmajjbhckegaeoapc)
-- **[merge-all-windows](https://github.com/enixCode/merge-all-windows)** Browser extension: merge every window into the current one.
+- **[merge-all-windows](https://github.com/enixCode/merge-all-windows)** Browser extension: merge every window into the current one. [Chrome Web Store](https://chromewebstore.google.com/detail/aenlgeffadmfaihimahkadmfcaiaochc)
 - **[supertonic-tts](https://github.com/enixCode/supertonic-tts)** Local TTS service in Docker, OpenAI-compatible.
 - **[quickref](https://github.com/enixCode/quickref)** Windows: one key shows your shortcuts.
 - **[news-bar](https://github.com/enixCode/news-bar)** Windows: scrolling shortcut bar.
